@@ -31,6 +31,7 @@ temperature-converter/
 ├── style.css       # Styling for the application
 ├── script.js       # Conversion logic
 └── README.md       # Project documentation
+
 ⚙️ How It Works
 
 Enter a temperature value in the input box.
