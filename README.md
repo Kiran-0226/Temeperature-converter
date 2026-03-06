@@ -24,13 +24,12 @@ CSS3 – Styling and layout
 
 JavaScript (Vanilla JS) – Conversion logic and interactivity
 
-📂 Project Structure
-temperature-converter/
+Temperature-Converter-project
 │
-├── index.html      # Main HTML structure
-├── style.css       # Styling for the application
-├── script.js       # Conversion logic
-└── README.md       # Project documentation
+├── index.html     # Main HTML structure
+├── style.css      # Styling for the counter UI
+├── script.js      # Converter logic using JavaScript
+└── README.md      # Project documentation
 
 ⚙️ How It Works
 
